@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(215, 245, 245);
+}
+
+/*nice*/
+
+a.link {
+    color: blue;
+}
+
+li.list {
+    color: green;
+}
+
+p {
+    color: indigo;
+}
