@@ -1,8 +1,9 @@
 * {
     background-color: rgb(215, 245, 245);
+    scroll-behavior: smooth;
 }
 
-/*nice*/
+/* nice*/
 
 a.link {
     color: blue;
