@@ -1,6 +1,7 @@
 * {
     background-color: rgb(215, 245, 245);
     scroll-behavior: smooth;
+    border: 2px red;
 }
 
 /* nice*/
@@ -15,4 +16,27 @@ li.list {
 
 p {
     color: indigo;
+}
+
+.b-head {
+    padding: 30px;
+    padding-bottom: 50px;
+    border: 20px black;
+    margin: 100px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    background-color: rgb(178, 241, 241);
+    height: 60px;
+    width: 300px;
+}
+.s-head {
+    padding: 20px;
+    border: 20px black;
+    margin: 50px;
+    margin-left: 0px;
+    box-sizing: border-box;
+    background-color: rgb(178, 241, 241);
+    height: 50px;
+    width: 200px;
 }
