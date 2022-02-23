@@ -21,9 +21,8 @@ p {
     padding: 20px;
     padding-bottom: 55px;
     border: 20px black;
-    margin: 100px;
-    margin-left: 0px;
-    margin-bottom: 40px;
+    margin: auto;
+    margin-bottom: 10px;
     box-sizing: border-box;
     background-color: rgb(178, 241, 241);
     height: 60px;
@@ -32,7 +31,7 @@ p {
 .s-head {
     padding: 15px;
     border: 20px black;
-    margin: 50px;
+    margin: auto;
     margin-left: 0px;
     box-sizing: border-box;
     background-color: rgb(178, 241, 241);
